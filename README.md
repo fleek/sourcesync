@@ -1,5 +1,7 @@
 # Sourcesync Plugin
 
+dummy edit
+
 <!-- Plugin description -->
 **Sourcesync** provides fast, one-way file synchronization for your projects. 
 
